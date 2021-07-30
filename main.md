@@ -156,3 +156,6 @@ These four stages lead to one of two outcomes, that aggregate demand increases o
 
 ![AD/AS Graph](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/AS_+_AD_graph.svg/1200px-AS_+_AD_graph.svg.png)
 *Image courtesy: Wikipedia (https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/AS_%2B_AD_graph.svg/1200px-AS_%2B_AD_graph.svg.png)*
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQ0OTUyNTk1MV19
+-->
